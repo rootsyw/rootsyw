@@ -1,4 +1,6 @@
 ## Hi there 👋
+- :star2: I'm a student at Sichuan University.
+- :sunglasses: I'm interested in Deep Learning, but I'm a rookie.
 
 <!--
 **rootsyw/rootsyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
