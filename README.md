@@ -2,6 +2,7 @@
 - :star2: I'm a student at Sichuan University.
 - :sunglasses: I'm interested in Deep Learning, but I'm a rookie.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootsyw)](https://github.com/rootsyw/github-readme-stats)
 <!--
 **rootsyw/rootsyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
