@@ -1,6 +1,6 @@
 ## Hi there 👋
-- :star2: I'm a student at Sichuan University.
 - :sunglasses: I'm interested in Deep Learning, but I'm a rookie.
+- 🌱 I’m currently learning LLM&Agent
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootsyw)](https://github.com/rootsyw/github-readme-stats)
 
