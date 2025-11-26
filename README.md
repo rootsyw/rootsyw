@@ -2,13 +2,13 @@
 - :sunglasses: I'm interested in Deep Learning, but I'm a rookie.
 - 🌱 I’m currently learning LLM&Agent
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootsyw)](https://github.com/rootsyw/github-readme-stats)
+
 
 <!--
 **rootsyw/rootsyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootsyw)
 Here are some ideas to get you started:
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootsyw)](https://github.com/rootsyw/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
